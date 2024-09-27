@@ -77,7 +77,7 @@
   border: 1px solid var(--form-input-border-color);
 }
 
-.filepond--panel-drop-label {
+.filepond--drop-label.filepond--drop-label {
   color: var(--color-text-light);
   font-size: inherit;
 }
